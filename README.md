@@ -22,7 +22,7 @@ This AI-powered news chatbot is designed to provide a seamless and interactive e
 ## Folder Structure
 ```
 |-- e-newspaper-chatbot
-    |-- index.html         # Front-end interface
+    |-- frontend.html         # Front-end interface
     |-- app.py             # Back-end logic and API
     |-- extracted_text/    # Folder for extracted text files
     |-- summaries/        # Folder for summarized text files
